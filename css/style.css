@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web|Ubuntu');
+
+.wrapper {
+    max-width: 45rem;
+    background: lightblue;
+     text-align: center;
+}
+
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    font-family: 'Titillium Web', sans-serif;
+    padding: 10px;
+}
+
+ul li{
+    overflow:hidden;
+}
+
+footer p a {
+    text-decoration: none;
+    color: black;
+}
+
+footer p a:hover {
+    color: white;
+}
